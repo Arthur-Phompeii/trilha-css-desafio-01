@@ -10,7 +10,7 @@ body {
     height: 605px;
     gap: 10px;
     opacity: 1;
-    background-image: url(assets/images/banner.png), radial-gradient(80% 49%, hsla(198, 71%, 18%, 0.849), rgba(0, 0, 0, 0));
+    background-image: url(./assets/images/banner.png), radial-gradient(80% 49%, hsla(198, 71%, 18%, 0.849), rgba(0, 0, 0, 0));
     object-fit: cover;
     display: grid;
     align-content: center;
